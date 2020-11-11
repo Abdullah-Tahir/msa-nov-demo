@@ -1,1 +1,1 @@
-# This is my side-feature-2 file
+# Side Feature 2
